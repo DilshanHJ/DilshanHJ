@@ -124,13 +124,17 @@ My work focuses on **full-stack development**, **backend architecture**, **datab
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DilshanHJ&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DilshanHJ&theme=tokyonight&hide_border=true" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=DilshanHJ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=DilshanHJ&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanHJ&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanHJ&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
