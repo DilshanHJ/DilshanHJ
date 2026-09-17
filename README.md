@@ -9,6 +9,10 @@
 <h2 align="center">Software Engineer · Full-Stack · Systems & Security-Aware</h2>
 
 <p align="center">
+  <a href="https://hashithadilshan.com/">hashithadilshan.com</a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=720&lines=Enterprise-Grade+Application+Builder;Backend+%26+System-Focused+Engineer;Security-Aware+Full-Stack+Developer;Designing+Scalable+Real-World+Systems" />
 </p>
 
