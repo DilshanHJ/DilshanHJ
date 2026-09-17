@@ -1,12 +1,12 @@
 <h1 align="center">Hashitha Dilshan Jayarathne</h1>
 
 <p align="center">
-  <strong>Software Engineer Â· Backend & Full-Stack Systems Â· Production Problem Solving</strong>
+  <strong>Software Engineer · Backend & Full-Stack Systems · Production Problem Solving</strong>
 </p>
 
 <p align="center">
-  <a href="https://hashithadilshan.com">Website</a> Â·
-  <a href="https://www.linkedin.com/in/hashitha-dilshan-137327197">LinkedIn</a> Â·
+  <a href="https://hashithadilshan.com">Website</a> ·
+  <a href="https://www.linkedin.com/in/hashitha-dilshan-137327197">LinkedIn</a> ·
   <a href="mailto:hashithadiljay@gmail.com">Email</a>
 </p>
 
@@ -29,19 +29,19 @@ My work includes:
 
 I am currently available for selected freelance, subcontracting and technical-support engagements.
 
-[Describe your software problem â†’](https://hashithadilshan.com/#contact)
+[Describe your software problem →](https://hashithadilshan.com/#contact)
 
 ---
 
 ## Engineering focus
 
 ```text
-Application layer    React Â· Next.js Â· TypeScript Â· Node.js Â· NestJS
-Backend systems      REST APIs Â· Authentication Â· RBAC Â· Business workflows
-Data layer           PostgreSQL Â· MySQL Â· MongoDB Â· Redis
-Infrastructure       Docker Â· Linux Â· Nginx Â· SSL Â· VPS deployment
-Architecture         Modular systems Â· Multi-tenancy Â· Event-driven workflows
-Integrations         Third-party APIs Â· Biometric and attendance devices
+Application layer    React · Next.js · TypeScript · Node.js · NestJS
+Backend systems      REST APIs · Authentication · RBAC · Business workflows
+Data layer           PostgreSQL · MySQL · MongoDB · Redis
+Infrastructure       Docker · Linux · Nginx · SSL · VPS deployment
+Architecture         Modular systems · Multi-tenancy · Event-driven workflows
+Integrations         Third-party APIs · Biometric and attendance devices
 ```
 
 ---
@@ -54,7 +54,7 @@ A production-hosted professional website presenting my software engineering, sys
 
 **Highlights:** custom domain, GitHub Pages deployment, HTTPS, structured data, sitemap, responsive design and technical SEO.
 
-[Live website](https://hashithadilshan.com) Â·
+[Live website](https://hashithadilshan.com) ·
 [Repository](https://github.com/DilshanHJ/hashithadilshan.com)
 
 ### Secure Task Management Platform
@@ -91,25 +91,25 @@ A custom Java and JOGL-based project exploring rendering, animation and game-eng
 
 ## Professional experience
 
-### Software Developer â€” VFT Holdings Pvt. Ltd.
+### Software Developer — VFT Holdings Pvt. Ltd.
 
-**August 2025 â€“ Present**
+**August 2025 – Present**
 
 - Develop business applications and backend workflows
 - Work with attendance, payroll, POS, OTA and management systems
 - Implement reporting, integration and deployment requirements
 
-### Associate Software Engineer â€” Biometrix Pvt. Ltd.
+### Associate Software Engineer — Biometrix Pvt. Ltd.
 
-**May 2024 â€“ August 2025**
+**May 2024 – August 2025**
 
 - Developed biometric-integrated attendance and access-control systems
 - Worked on attendance, payroll, POS and property-management solutions
 - Contributed across backend, frontend, database and device-integration layers
 
-### Intern Software Engineer â€” AXCERTRO Pvt. Ltd.
+### Intern Software Engineer — AXCERTRO Pvt. Ltd.
 
-**April 2024 â€“ May 2024**
+**April 2024 – May 2024**
 
 - Worked with MVC, repository and service-layer patterns
 - Implemented authentication and role-based authorization
@@ -118,7 +118,7 @@ A custom Java and JOGL-based project exploring rendering, animation and game-eng
 
 ## Education
 
-**B.Sc. (Special) in Computer Science â€” First Class Honours**
+**B.Sc. (Special) in Computer Science — First Class Honours**
 
 Wayamba University of Sri Lanka
 
